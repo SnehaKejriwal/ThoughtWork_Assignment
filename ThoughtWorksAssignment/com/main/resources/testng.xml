@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ThoughtWorks Assignment Test Suite">
+	<listeners>
+		<listener class-name="com.qa.amazon.ExtentReportListener.ExtentReporterNG.java">
+		</listener>
+	</listeners>
+
+	<test name="Amazon Test Cases">
+		<classes>
+			<class name="com.qa.amazon.testcases.LoginPageTestFlow1.java" />
+		</classes>
+	</test>
+</suite>

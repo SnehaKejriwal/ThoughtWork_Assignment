@@ -1,0 +1,8 @@
+com\qa\amazon\ExtentReportListener\ExtentReporterNG.class
+com\qa\amazon\pages\HomePage.class
+com\qa\amazon\pages\PaymentPage.class
+com\qa\amazon\util\TestUtil.class
+com\qa\amazon\util\WebEventListener.class
+com\qa\amazon\base\TestBase.class
+com\qa\amazon\pages\SearchResultPage.class
+com\qa\amazon\pages\LoginPage.class
